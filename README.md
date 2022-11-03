@@ -1,5 +1,5 @@
 # projet-pico-8
-Projet de jeu vidéo créé en groupe lors d'un sprint de deux semaines avec Pico-8, après quatre semaines de formation à Ada Tech School - l'école qui casse les codes !
+Projet de jeu vidéo créé en groupe lors d'un sprint de deux semaines avec Pico-8, après quatre semaines de formation à ![](https://adatechschool.fr/ "Ada Tech School - l'école qui casse les codes !")
 
 ![](Main%20menu.png)
 
