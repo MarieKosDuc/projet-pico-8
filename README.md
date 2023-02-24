@@ -19,6 +19,8 @@ Satisfied with our first playable version, we decided to use the remaining time 
 
 One of the biggest challenges of this project was that it is basically impossible to use GitHub on a Pico-8 project, since the graphical elements cannot be shared in code (they are hardcoded somewhere inside the Pico-8 console and quite difficult to export/import). We thus had to share our code by copy/paste, which led to difficulties when integrating whole new functionalities.
 
+[Play the game!](https://www.lexaloffle.com/bbs/?tid=50014)
+
 
 ## Screenshots
 
